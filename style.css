@@ -14,3 +14,8 @@
 .join p{
     margin: 0 10vw 0 0;
 }
+.icon li{
+    list-style: none;
+    display: inline-block;
+
+}
