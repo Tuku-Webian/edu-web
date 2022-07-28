@@ -17,5 +17,7 @@
 .icon li{
     list-style: none;
     display: inline-block;
-
+}
+.backg-color{
+    background-color: rgb(254, 247, 255);
 }
